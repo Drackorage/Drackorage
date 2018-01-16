@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Барковский</title>
+	<meta charset="UTF-8">  
+</head>
+<body bgcolor="#ffebe5">
+	<video width="400" height="300" controls="controls">
+ <source src="Untitled.mp4" type="video/mp4">
+</video>
+<h1 align="center">Барковский и его дцп</h1>
+<hr color="black">
+<h3 style="color: red">Оргумент №1</h3>
+<p>Самый важный оргумент это его пидорские фото:</p>
+<img src="JNr0al9h7Y4.jpg" alt=" ЕСЛИ ЕЁ НЕТ " title="Пидор" height="200" width="200">
+<img src="oJ9-ZhwbOOE.jpg" alt=" ЕСЛИ ЕЁ НЕТ " title="Пидор" height="200" width="200">
+<img src="YXjDJlehmEY.jpg" alt=" ЕСЛИ ЕЁ НЕТ " title="Пидор" height="200" width="200">
+<a href="https://www.youtube.com">Эта ютуб</a>
+<p><a href="https://vk.com/id182578693" target="_blank" >Сылка</a> на этого гея, можете его обосать</p>
+<h3 style="color: red">Оргумент №2</h3>
+<p>Вторым оргументом является его поведение в переписках, к примеру вот это:</p>
+<ul>
+     <li style="color: red"><big>Барковский: ГО В ДОТУ</big></li>
+     <li>Несчастная жертва: прости, но я сейчас очень занят</li>
+     <li style="color: red"><big>Барковский: МНЕ ПОХУЙ ЗАШЕЛ В ДОТУ</big></li>
+     <li>Несчастная жертва: я не могу пойми</li>
+     <li style="color: red"><big>Барковский: ТОБЕ ПИЗДА</big></li>
+</ul>
+<p>Введите своё имя</p>
+<form action="Новый текстовый документ.txt" method="post">
+	<input type="text" name="Ваше имя" placeholder="Введите имя" ><br>
+	<input type="checkbox" name="" value="НАЗВАНИЕ КПОПКИ" > 
+	хотите быть админом?
+	<select name="ds">
+	<option value="НАЗВАНИЕ КНОПКИ">nen</option>
+	<option value="НАЗВАНИЕ КНОПКИ2">das</option>
+	<option value="НАЗВАНИЕ КНОПКИ3">dasda</option>
+	<input type="checkbox" name="ыфыф" value="НАЗВАНИЕ КНОПКИ">
+</select>
+<input type="file" name="" value="НАЗВАНИЕ КНОПКИ">
+<input type="submit" name="" value="dasdas">
+
+</form>
+<textarea name=" " cols="20" rows="22" maxlength="5">
+</textarea>
+</body>
+</html>
+
